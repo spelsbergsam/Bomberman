@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BombFire
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BombFire\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=img
+comment1.target=BombFire(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ dropFirePowerUp()
+comment4.params=
+comment4.target=void\ dropBombPowerUp()
+numComments=5
